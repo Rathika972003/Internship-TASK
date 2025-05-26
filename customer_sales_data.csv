@@ -1,0 +1,201 @@
+Customer_ID,Age,Gender,Location,Product_Category,Purchase_Amount,Purchase_Date,Customer_Satisfaction
+CUST0001,56,Female,New York,Clothing,155.6,2024-02-16,2
+CUST0002,69,Non-Binary,Phoenix,Toys,927.32,2024-03-08,1
+CUST0003,46,Male,Houston,Home Appliances,497.2,2024-03-16,5
+CUST0004,32,Female,Los Angeles,Toys,265.66,2024-05-09,1
+CUST0005,60,Male,New York,Home Appliances,464.54,2024-04-04,2
+CUST0006,25,Male,Houston,Home Appliances,980.23,2024-04-24,4
+CUST0007,38,Non-Binary,Phoenix,Clothing,497.69,2024-02-05,5
+CUST0008,56,Female,Houston,Books,335.46,2024-01-26,2
+CUST0009,36,Non-Binary,New York,Electronics,637.07,2024-02-12,5
+CUST0010,40,Non-Binary,Houston,Clothing,247.74,2024-01-27,3
+CUST0011,28,Female,Chicago,Clothing,85.1,2024-03-09,1
+CUST0012,28,Male,Houston,Books,137.59,2024-05-27,3
+CUST0013,41,Male,Los Angeles,Electronics,136.77,2024-01-11,2
+CUST0014,53,Female,Los Angeles,Toys,160.38,2024-03-14,4
+CUST0015,57,Male,Chicago,Toys,147.44,2024-04-13,5
+CUST0016,41,Female,New York,Clothing,644.47,2024-02-07,1
+CUST0017,20,Female,Los Angeles,Electronics,190.06,2024-05-13,5
+CUST0018,39,Non-Binary,Phoenix,Clothing,352.21,2024-01-23,2
+CUST0019,19,Female,Los Angeles,Home Appliances,897.82,2024-02-16,5
+CUST0020,41,Non-Binary,Los Angeles,Clothing,479.22,2024-03-30,1
+CUST0021,61,Male,New York,Clothing,670.88,2024-02-15,2
+CUST0022,47,Male,Houston,Toys,180.6,2024-04-16,5
+CUST0023,55,Male,Los Angeles,Toys,200.37,2024-05-19,4
+CUST0024,19,Male,Chicago,Toys,50.46,2024-05-20,2
+CUST0025,38,Non-Binary,Houston,Home Appliances,177.25,2024-04-13,2
+CUST0026,50,Male,Phoenix,Toys,285.8,2024-04-20,4
+CUST0027,29,Female,New York,Electronics,185.24,2024-04-13,3
+CUST0028,39,Female,Phoenix,Books,97.82,2024-02-29,1
+CUST0029,61,Female,Houston,Electronics,129.43,2024-04-09,3
+CUST0030,42,Non-Binary,Houston,Electronics,466.17,2024-03-08,5
+CUST0031,66,Male,Houston,Toys,214.27,2024-05-12,4
+CUST0032,44,Male,Phoenix,Books,370.63,2024-04-29,3
+CUST0033,59,Male,Houston,Books,508.38,2024-02-06,2
+CUST0034,45,Non-Binary,Phoenix,Books,693.49,2024-03-12,5
+CUST0035,33,Female,Houston,Home Appliances,48.92,2024-05-06,5
+CUST0036,32,Female,Chicago,Toys,801.42,2024-04-15,3
+CUST0037,64,Male,Houston,Books,631.62,2024-04-01,3
+CUST0038,68,Female,Phoenix,Home Appliances,90.94,2024-01-31,4
+CUST0039,61,Female,Los Angeles,Clothing,874.84,2024-05-01,1
+CUST0040,69,Non-Binary,Houston,Clothing,921.66,2024-05-16,3
+CUST0041,20,Non-Binary,Los Angeles,Home Appliances,70.47,2024-02-20,3
+CUST0042,54,Non-Binary,Chicago,Home Appliances,284.11,2024-01-29,2
+CUST0043,68,Non-Binary,New York,Toys,808.14,2024-02-09,5
+CUST0044,24,Male,Chicago,Toys,750.78,2024-02-10,1
+CUST0045,38,Non-Binary,Houston,Clothing,192.68,2024-01-11,2
+CUST0046,26,Female,Los Angeles,Books,217.26,2024-05-30,4
+CUST0047,56,Male,Los Angeles,Clothing,376.77,2024-01-01,4
+CUST0048,35,Female,Phoenix,Books,489.68,2024-02-15,3
+CUST0049,21,Female,Los Angeles,Books,622.07,2024-04-10,3
+CUST0050,42,Female,Phoenix,Toys,375.22,2024-05-28,4
+CUST0051,31,Non-Binary,New York,Electronics,467.91,2024-03-30,3
+CUST0052,67,Non-Binary,Houston,Electronics,750.0,2024-04-19,1
+CUST0053,26,Male,Phoenix,Home Appliances,46.32,2024-02-26,3
+CUST0054,43,Male,New York,Toys,259.91,2024-01-01,5
+CUST0055,19,Non-Binary,Los Angeles,Books,716.22,2024-03-03,3
+CUST0056,37,Female,Los Angeles,Electronics,896.25,2024-02-24,2
+CUST0057,45,Male,New York,Books,516.56,2024-04-24,1
+CUST0058,64,Non-Binary,Los Angeles,Electronics,536.79,2024-05-22,2
+CUST0059,24,Non-Binary,New York,Electronics,116.1,2024-05-28,2
+CUST0060,61,Non-Binary,Phoenix,Electronics,452.94,2024-02-22,5
+CUST0061,25,Female,Phoenix,Toys,537.29,2024-05-16,1
+CUST0062,64,Non-Binary,New York,Clothing,250.05,2024-02-26,1
+CUST0063,52,Non-Binary,Phoenix,Books,276.55,2024-04-26,1
+CUST0064,31,Non-Binary,Phoenix,Toys,383.51,2024-02-04,1
+CUST0065,34,Non-Binary,Phoenix,Toys,29.87,2024-03-03,1
+CUST0066,53,Male,Chicago,Toys,328.86,2024-01-25,5
+CUST0067,67,Male,Houston,Toys,219.33,2024-03-30,3
+CUST0068,57,Non-Binary,Los Angeles,Toys,334.22,2024-03-15,2
+CUST0069,21,Female,Chicago,Home Appliances,128.56,2024-02-07,1
+CUST0070,19,Male,Phoenix,Books,891.62,2024-05-09,3
+CUST0071,23,Non-Binary,New York,Toys,597.66,2024-05-14,3
+CUST0072,59,Male,Phoenix,Books,682.31,2024-03-31,2
+CUST0073,21,Male,Houston,Home Appliances,791.28,2024-01-17,5
+CUST0074,46,Female,Phoenix,Home Appliances,503.46,2024-05-07,4
+CUST0075,35,Non-Binary,New York,Books,96.05,2024-04-17,4
+CUST0076,43,Non-Binary,Houston,Electronics,541.74,2024-05-31,3
+CUST0077,61,Female,Phoenix,Clothing,590.97,2024-01-25,2
+CUST0078,51,Female,Houston,Electronics,747.99,2024-03-28,4
+CUST0079,27,Non-Binary,Los Angeles,Electronics,437.34,2024-01-29,3
+CUST0080,53,Non-Binary,Los Angeles,Electronics,136.3,2024-03-03,5
+CUST0081,31,Female,Phoenix,Toys,290.94,2024-05-29,4
+CUST0082,48,Male,Houston,Home Appliances,369.45,2024-04-23,3
+CUST0083,65,Male,New York,Electronics,649.46,2024-02-18,3
+CUST0084,32,Female,Phoenix,Home Appliances,575.07,2024-03-21,1
+CUST0085,25,Male,Los Angeles,Books,362.54,2024-03-24,5
+CUST0086,31,Female,Los Angeles,Clothing,986.65,2024-04-14,1
+CUST0087,40,Male,Phoenix,Books,609.72,2024-05-27,2
+CUST0088,57,Male,Houston,Books,244.85,2024-04-27,1
+CUST0089,38,Non-Binary,Los Angeles,Toys,110.76,2024-03-26,1
+CUST0090,33,Non-Binary,Houston,Clothing,161.33,2024-03-03,4
+CUST0091,62,Male,Los Angeles,Books,253.5,2024-04-13,3
+CUST0092,35,Male,Los Angeles,Books,169.07,2024-02-18,5
+CUST0093,64,Non-Binary,Chicago,Clothing,194.7,2024-03-11,1
+CUST0094,41,Non-Binary,Los Angeles,Clothing,292.24,2024-01-01,5
+CUST0095,43,Non-Binary,New York,Books,181.64,2024-05-20,1
+CUST0096,42,Female,Phoenix,Clothing,897.8,2024-05-02,2
+CUST0097,62,Male,Phoenix,Books,89.43,2024-03-02,1
+CUST0098,58,Non-Binary,Houston,Books,529.27,2024-02-01,4
+CUST0099,46,Male,Los Angeles,Toys,416.29,2024-01-29,3
+CUST0100,32,Female,New York,Electronics,982.55,2024-02-18,2
+CUST0101,62,Female,Houston,Books,120.92,2024-01-30,1
+CUST0102,18,Non-Binary,Chicago,Home Appliances,403.88,2024-05-23,5
+CUST0103,42,Female,Houston,Electronics,969.78,2024-01-19,2
+CUST0104,24,Male,Houston,Electronics,866.85,2024-01-18,2
+CUST0105,26,Non-Binary,Los Angeles,Electronics,818.9,2024-01-01,1
+CUST0106,41,Male,Chicago,Toys,265.32,2024-03-18,2
+CUST0107,18,Male,Houston,Books,179.18,2024-04-24,5
+CUST0108,61,Female,New York,Toys,671.96,2024-04-22,2
+CUST0109,25,Female,New York,Books,930.08,2024-04-23,5
+CUST0110,41,Female,Phoenix,Toys,561.2,2024-03-03,1
+CUST0111,28,Female,Chicago,Toys,575.9,2024-05-11,3
+CUST0112,68,Female,Chicago,Home Appliances,287.18,2024-05-08,2
+CUST0113,34,Non-Binary,Phoenix,Toys,771.8,2024-01-08,3
+CUST0114,25,Male,Houston,Clothing,195.17,2024-02-24,5
+CUST0115,52,Male,Chicago,Home Appliances,330.44,2024-04-12,2
+CUST0116,52,Male,New York,Toys,431.18,2024-05-10,4
+CUST0117,50,Male,New York,Electronics,512.53,2024-02-01,3
+CUST0118,22,Female,Los Angeles,Clothing,249.99,2024-01-10,2
+CUST0119,59,Male,Chicago,Clothing,123.69,2024-04-19,3
+CUST0120,56,Non-Binary,Houston,Clothing,614.51,2024-05-03,2
+CUST0121,58,Non-Binary,Phoenix,Home Appliances,295.74,2024-03-27,1
+CUST0122,45,Male,Phoenix,Toys,585.43,2024-02-24,3
+CUST0123,24,Male,Houston,Toys,162.82,2024-02-01,4
+CUST0124,26,Non-Binary,Los Angeles,Electronics,486.33,2024-05-14,4
+CUST0125,25,Non-Binary,Phoenix,Electronics,537.26,2024-04-02,5
+CUST0126,29,Female,Chicago,Clothing,61.31,2024-01-08,2
+CUST0127,51,Non-Binary,Los Angeles,Electronics,343.24,2024-03-05,3
+CUST0128,50,Female,Chicago,Home Appliances,143.07,2024-02-26,5
+CUST0129,65,Female,New York,Toys,72.74,2024-03-07,3
+CUST0130,40,Female,Los Angeles,Clothing,990.06,2024-03-12,2
+CUST0131,41,Female,Phoenix,Electronics,329.13,2024-02-23,4
+CUST0132,54,Female,Los Angeles,Home Appliances,811.78,2024-03-07,1
+CUST0133,52,Male,Los Angeles,Home Appliances,262.09,2024-02-20,4
+CUST0134,61,Non-Binary,Los Angeles,Electronics,684.69,2024-04-06,5
+CUST0135,57,Female,Los Angeles,Toys,762.63,2024-04-01,1
+CUST0136,39,Non-Binary,Chicago,Electronics,599.68,2024-01-08,5
+CUST0137,44,Non-Binary,New York,Clothing,476.86,2024-02-04,2
+CUST0138,52,Female,Houston,Electronics,417.72,2024-04-05,1
+CUST0139,18,Male,Los Angeles,Home Appliances,355.38,2024-03-28,5
+CUST0140,52,Female,Phoenix,Electronics,930.23,2024-03-18,2
+CUST0141,54,Male,Los Angeles,Toys,832.31,2024-02-01,4
+CUST0142,64,Non-Binary,Phoenix,Books,965.38,2024-04-29,2
+CUST0143,31,Male,Chicago,Electronics,133.05,2024-02-15,3
+CUST0144,20,Male,Phoenix,Toys,733.56,2024-05-23,2
+CUST0145,18,Male,Houston,Toys,938.96,2024-05-21,2
+CUST0146,22,Non-Binary,New York,Home Appliances,189.42,2024-02-24,3
+CUST0147,43,Non-Binary,Phoenix,Toys,75.83,2024-01-07,5
+CUST0148,31,Male,Phoenix,Toys,743.71,2024-03-14,5
+CUST0149,56,Male,New York,Toys,578.73,2024-01-07,2
+CUST0150,44,Female,Houston,Toys,843.41,2024-05-30,3
+CUST0151,26,Male,Los Angeles,Clothing,148.37,2024-03-25,3
+CUST0152,32,Female,Phoenix,Clothing,797.31,2024-05-26,4
+CUST0153,32,Male,New York,Home Appliances,209.61,2024-04-21,5
+CUST0154,43,Female,Chicago,Electronics,172.02,2024-05-04,1
+CUST0155,59,Non-Binary,New York,Toys,172.62,2024-05-26,5
+CUST0156,30,Male,Chicago,Electronics,816.43,2024-02-05,5
+CUST0157,68,Male,Houston,Electronics,668.55,2024-01-29,4
+CUST0158,49,Male,Los Angeles,Home Appliances,527.83,2024-03-22,1
+CUST0159,56,Male,New York,Toys,365.24,2024-01-02,4
+CUST0160,66,Female,Phoenix,Toys,878.43,2024-05-08,1
+CUST0161,69,Male,Houston,Books,398.52,2024-02-16,2
+CUST0162,49,Non-Binary,New York,Electronics,818.43,2024-05-27,1
+CUST0163,21,Non-Binary,Phoenix,Electronics,444.74,2024-01-11,4
+CUST0164,47,Male,New York,Clothing,383.17,2024-05-09,5
+CUST0165,54,Non-Binary,Chicago,Books,468.05,2024-04-28,1
+CUST0166,40,Male,New York,Clothing,308.36,2024-05-19,1
+CUST0167,56,Male,New York,Clothing,750.13,2024-01-20,3
+CUST0168,62,Non-Binary,New York,Clothing,507.69,2024-01-05,5
+CUST0169,32,Male,Houston,Home Appliances,239.89,2024-02-06,2
+CUST0170,60,Non-Binary,New York,Home Appliances,900.58,2024-05-16,4
+CUST0171,46,Female,Phoenix,Clothing,390.05,2024-02-22,2
+CUST0172,53,Male,Chicago,Books,548.12,2024-04-08,5
+CUST0173,30,Female,Chicago,Electronics,907.41,2024-03-26,1
+CUST0174,49,Non-Binary,New York,Books,628.0,2024-04-17,1
+CUST0175,24,Female,Houston,Toys,125.73,2024-01-24,5
+CUST0176,68,Female,Houston,Home Appliances,940.43,2024-03-21,1
+CUST0177,39,Non-Binary,Phoenix,Electronics,631.43,2024-04-29,1
+CUST0178,45,Female,New York,Electronics,341.56,2024-02-28,1
+CUST0179,19,Female,Chicago,Toys,147.88,2024-05-07,4
+CUST0180,59,Non-Binary,Houston,Toys,796.08,2024-04-23,4
+CUST0181,62,Female,New York,Clothing,623.87,2024-04-24,3
+CUST0182,23,Non-Binary,Houston,Home Appliances,538.13,2024-01-14,2
+CUST0183,45,Female,Houston,Home Appliances,894.95,2024-01-09,5
+CUST0184,45,Non-Binary,Chicago,Books,790.71,2024-02-09,5
+CUST0185,61,Non-Binary,Los Angeles,Clothing,160.16,2024-01-25,5
+CUST0186,61,Female,Phoenix,Clothing,318.6,2024-04-12,3
+CUST0187,37,Female,Phoenix,Clothing,256.0,2024-01-22,4
+CUST0188,47,Female,Chicago,Clothing,746.51,2024-01-04,3
+CUST0189,28,Male,Houston,Home Appliances,43.2,2024-01-29,5
+CUST0190,45,Male,New York,Home Appliances,574.19,2024-04-18,2
+CUST0191,42,Male,Houston,Clothing,764.83,2024-04-07,1
+CUST0192,56,Non-Binary,Chicago,Books,878.0,2024-02-06,4
+CUST0193,50,Female,Phoenix,Electronics,348.66,2024-03-15,4
+CUST0194,18,Non-Binary,Houston,Electronics,823.04,2024-03-10,3
+CUST0195,44,Male,Phoenix,Books,119.53,2024-05-25,4
+CUST0196,69,Female,New York,Clothing,847.99,2024-05-07,5
+CUST0197,30,Non-Binary,Phoenix,Home Appliances,136.21,2024-03-25,5
+CUST0198,58,Female,Phoenix,Electronics,403.31,2024-02-11,3
+CUST0199,20,Non-Binary,Los Angeles,Toys,799.32,2024-04-09,5
+CUST0200,56,Female,Los Angeles,Toys,158.42,2024-02-10,2
